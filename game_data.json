@@ -1,0 +1,23 @@
+{
+    "overview": {
+        "quarter_scores": {
+            "REG": {
+                "Q1": "25",
+                "Q2": "12",
+                "Q3": "21",
+                "Q4": "39"
+            },
+            "SPAR": {
+                "Q1": "22",
+                "Q2": "15",
+                "Q3": "16",
+                "Q4": "19"
+            }
+        }
+    },
+    "boxscore": {
+        "home_team": [],
+        "away_team": []
+    },
+    "play_by_play": []
+}
